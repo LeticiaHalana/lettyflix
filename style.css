@@ -5,7 +5,3 @@
 body{
     background-color: rgb(18, 17, 20);    
 }
-header{
-    display: flex;
-    justify-content: center;
-}
