@@ -12,6 +12,9 @@ header{
 h1{
     display: flex;
     justify-content: center;
+    color: white;
+    margin-bottom: 30px;
+    font-size: 25px;
 }
 .container_cards{
     display: flex;
@@ -23,17 +26,27 @@ h1{
 }
 a{
     display: flex;
+    justify-content: center;
+    text-decoration: none;
+    margin: 10px;
+    color: white;
 }
 .img_cards{
     width: 160px;
     border-radius: 5px;
 }
 .logo{
-    width: 350px;
+    width: 250px;
     display: flex;
     justify-content: center;
+    margin: 70px 0 50px;
 }
-span{
+footer{
     display: flex;
     justify-content: center;
+    padding: 11px;
+    width: 120px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: rgb(204, 196, 196);
 }
