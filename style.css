@@ -31,11 +31,18 @@ a{
     justify-content: center;
     text-decoration: none;
     margin: 10px;
-    color: white;
+    color: rgb(134, 134, 134);
 }
+.cards:hover a{
+    color: rgb(255, 255, 255);
+   }
 .img_cards{
+    border: 2px solid transparent;
     width: 160px;
     border-radius: 5px;
+}
+.cards:hover .img_cards{
+ border: 2px solid white;
 }
 .logo{
     width: 250px;
