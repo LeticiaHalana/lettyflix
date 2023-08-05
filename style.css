@@ -58,6 +58,10 @@ a{
     border-radius: 4px;
     color: rgb(204, 196, 196);
 }
+.gerenciar:hover{
+    background-color: white;
+    color: black;
+} 
 .botao{
     display: flex;
     justify-content: center;
